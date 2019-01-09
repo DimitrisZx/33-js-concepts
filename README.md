@@ -22,7 +22,7 @@
 ## Εισαγωγή
 Το αποθετήριο αυτό δημιουργήθηκε με την πρόθεση να βοηθήσει τους προγραμματιστές να τελειοποιήσουν την κατανόηση κεντρικών εννοιών στην JavaScript. Δεν είναι κάποιο προαπαιτούμενο, αλλά ένας οδηγός για μελλοντικές μελέτες. Βασίζεται στο άρθρο του [Stephen Curtis](https://twitter.com/stephenthecurt) και μπορείτε να το διαβάσετε [εδώ](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
-**🚀 Θεωρήθηκε από το GitHub ως ένα από τα [κορυφαία open source projects του 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
+**🚀 Η Αγγλική εκδοχή του αποθετηρίου θεωρήθηκε από το GitHub ως ένα από τα [κορυφαία open source projects του 2018!](https://blog.github.com/2018-12-13-new-open-source-projects/)**
 
 ## Κοινότητα
 
@@ -77,8 +77,8 @@
 27. **[Δομές Δεδομένων](#27-data-structures)**
 28. **[Expensive Operation and Big O Notation](#28-expensive-operation-and-big-o-notation)**
 29. **[Αλγόριθμοι](#29-algorithms)**
-30. **[Inheritance, Polymorphism and Code Reuse](#30-inheritance-polymorphism-and-code-reuse)**
-31. **[Design Patterns](#31-design-patterns)**
+30. **[Κληρονομικότητα, Πολυμορφισμός και Επανάχρηση Κώδικα](#30-inheritance-polymorphism-and-code-reuse)**
+31. **[Σχεδιαστικά Μοτίβα](#31-design-patterns)**
 32. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
 33. **[Καθαρός Κώδικας](#33-clean-code)**
 
